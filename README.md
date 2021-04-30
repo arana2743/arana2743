@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... React and Django.
-- 🌱 I’m currently learning ... Fronend Development and getting started with competitive programming.
+- 🌱 I’m currently learning ... Fronend Development and DevOps automation with Docker and Jenkins.
 - 👯 I’m looking to collaborate on ... React projects!
 - 🤔 I’m looking for help with ... AWS Associate Level Certification - currently preparing for it.
 - 💬 Ask me about ... Anything related to web-development and Devops.
