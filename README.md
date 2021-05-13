@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Devops automation and Backend Development.
-- 🌱 I’m currently learning ... SpringBoot framework and depedency injection.
+- 🌱 I’m currently learning ... Springboot framework and depedency injection.
 - 👯 I’m looking to collaborate on ... React projects!
 - 🤔 I’m looking for help with ... AWS Associate Level Certification - currently preparing for it.
 - 💬 Ask me about ... Anything related to web-development and Devops.
