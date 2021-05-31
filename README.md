@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Backend Development.
+- 🔭 I’m currently working on ... Backend Development and Devops.
 - 🌱 I’m currently learning ... Java Developer Path and Springboot framework.
 - 👯 I’m looking to collaborate on ... React projects!
 - 🤔 I’m looking for help with ... AWS Associate Level Certification - currently preparing for it.
