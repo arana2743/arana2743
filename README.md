@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Backend Development and Devops.
-- 🌱 I’m currently learning ... C# and .Net Version 6
+- 🌱 I’m currently learning ... Core Java and SpringBoot
 - 👯 I’m looking to collaborate on ... .Net projects!
 - 🤔 I’m looking for help with ... AWS Associate Level Certification - currently preparing for it.
 - 💬 Ask me about ... Anything related to web-development and Devops.
