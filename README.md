@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Backend Development in Python, Java and Javascript.
-- 🌱 I’m currently learning ... Mobile application development for iOS Devices.
+- 🌱 I’m currently learning ... Frontend development.
 - 👯 I’m looking to collaborate on ... React and Node.js projects.
 - 🤔 I’m looking for help with ... Frontend development - as currently learning it.
 - 💬 Ask me about ... Anything related to web-development and Devops.
